@@ -1,5 +1,3 @@
 *.py linguist-detectable=true
-*.html linguist-detectable=false
 *.tex linguist-detectable=false
-echo "*.tex linguist-detectable=false" >> .gitattributes
-echo "*.py linguist-detectable=true" >> .gitattributes
+*.html linguist-detectable=false
